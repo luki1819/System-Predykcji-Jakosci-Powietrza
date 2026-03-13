@@ -57,5 +57,5 @@ Dane historyczne obejmują lata 2020–2025 ze stacji pomiarowej we Wrocławiu
 
 ## Screenshots
 
-![Dashboard](dashboard.png)
-![Dashboard 2](dashboard2.png)
+![Dashboard](dashboard2.png)
+![Dashboard 2](dashboard1.png)
