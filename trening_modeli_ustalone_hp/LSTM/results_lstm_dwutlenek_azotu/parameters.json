@@ -1,0 +1,8 @@
+{
+    "window_size": 48,
+    "batch_size": 64,
+    "lstm_units": 32,
+    "dense_units": 48,
+    "dropout_rate": 0.1,
+    "learning_rate": 0.0005
+}

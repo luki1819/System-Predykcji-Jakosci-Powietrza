@@ -1,0 +1,24 @@
+# System Prognozowania Jakości Powietrza
+
+## Wymagania systemowe
+- Python 3.12
+- System operacyjny: Windows (ze względu na plik .bat)
+
+## Instalacja
+
+1. Zainstaluj wymagane biblioteki, które podane są w pliku requirements.txt:
+
+pip install -r requirements.txt
+
+
+## Uruchomienie systemu
+1. Uruchomienie harmonogramu zbierania danych i predykcji
+uruchom skrypt scheduler.py znajdujący się w katalogu Prediction_system
+
+2. Uruchomienie interfejsu webowego
+uruchom start_dashboard.bat
+
+interfejs powinien uruchomić się automatycznie w przeglądarce, jeśli nie to jest pod adresem http://localhost:8501
+
+## Kontakt
+W razie pytań: 272421@student.pwr.edu.pl

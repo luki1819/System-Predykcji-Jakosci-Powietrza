@@ -1,0 +1,39 @@
+SZCZEGÓŁOWY RAPORT PRZETWARZANIA
+============================================================
+
+
+STACJA: Wrocław - wyb. Conrada-Korzeniowskiego
+------------------------------------------------------------
+
+Kolumny kompletne (6):
+  - temperature_2m
+  - relative_humidity_2m
+  - precipitation
+  - wind_speed_10m
+  - wind_direction_10m
+  - pressure_msl
+
+Kolumny przetworzone (3):
+  - dwutlenek azotu:
+    * Braki początkowe: 879
+    * Wypełniono: 879
+    * Luki krótkie: 406
+    * Luki średnie: 10
+    * Luki długie: 4
+  - pył zawieszony PM10:
+    * Braki początkowe: 280
+    * Wypełniono: 280
+    * Luki krótkie: 45
+    * Luki średnie: 6
+    * Luki długie: 2
+  - pył zawieszony PM2.5:
+    * Braki początkowe: 569
+    * Wypełniono: 569
+    * Luki krótkie: 72
+    * Luki średnie: 9
+    * Luki długie: 3
+
+Kolumny usunięte (1):
+  - boundary_layer_height: extreme_gaps
+
+============================================================

@@ -1,0 +1,66 @@
+feature,importance
+pył zawieszony PM10_rolling_min_3h,0.12142561
+pył zawieszony PM10_rolling_mean_24h,0.07851986
+pył zawieszony PM2.5,0.06874087
+pył zawieszony PM2.5_rolling_min_24h,0.052232508
+pył zawieszony PM10_lag12,0.04358442
+pył zawieszony PM2.5_lag12,0.04116586
+precipitation_rolling_mean_24h,0.026693601
+air_stagnation,0.025595417
+precipitation,0.021214746
+wind_direction_10m,0.01870813
+pył zawieszony PM10_rolling_max_3h,0.016932417
+pył zawieszony PM2.5_rolling_min_3h,0.015423505
+pył zawieszony PM2.5_rolling_mean_24h,0.015382401
+wind_speed_10m,0.015356369
+day_of_week,0.014990524
+hour,0.014406986
+pressure_msl,0.013119694
+precipitation_lag1,0.012998941
+temperature_2m_rolling_mean_24h,0.01270253
+season,0.0126274
+month,0.010955667
+wind_direction_10m_lag1,0.010769902
+pressure_msl_rolling_mean_24h,0.010599339
+pył zawieszony PM2.5_rolling_max_3h,0.010594099
+wind_speed_10m_rolling_mean_24h,0.010345269
+year,0.010329711
+temperature_2m,0.0097555695
+relative_humidity_2m_rolling_mean_24h,0.009749446
+pył zawieszony PM10_rolling_max_24h,0.009539837
+dwutlenek azotu_rolling_min_24h,0.009495064
+fog_potential,0.009424799
+dwutlenek azotu_rolling_max_24h,0.009173062
+temp_diff_24h,0.009129498
+wind_direction_10m_rolling_mean_24h,0.009021819
+pył zawieszony PM10_rolling_min_24h,0.009006674
+relative_humidity_2m,0.008976826
+wind_speed_10m_lag1,0.008954155
+wind_direction_10m_lag3,0.008929182
+pył zawieszony PM2.5_rolling_max_24h,0.008455198
+wind_speed_10m_lag3,0.008397857
+pył zawieszony PM2.5_lag3,0.007974053
+pył zawieszony PM2.5_lag24,0.007771696
+precipitation_lag3,0.0076666432
+dwutlenek azotu_rolling_max_3h,0.007598191
+pył zawieszony PM10_lag6,0.007429646
+dwutlenek azotu_rolling_mean_24h,0.007280266
+pył zawieszony PM2.5_lag6,0.0071968865
+dwutlenek azotu_lag12,0.00717471
+dwutlenek azotu_rolling_min_3h,0.007165741
+temp_diff_1h,0.006980512
+dwutlenek azotu_lag6,0.006831068
+dwutlenek azotu_diff_3h,0.0067542214
+pył zawieszony PM10_lag24,0.0067498535
+pył zawieszony PM10_lag1,0.0066974214
+pył zawieszony PM2.5_lag1,0.006550829
+pył zawieszony PM10_diff_1h,0.00640191
+dwutlenek azotu_lag24,0.006356152
+pył zawieszony PM2.5_diff_1h,0.0062431595
+pył zawieszony PM2.5_diff_3h,0.0061725667
+pył zawieszony PM10_lag3,0.006105351
+dwutlenek azotu_lag1,0.0057082293
+dwutlenek azotu_lag3,0.0057062306
+pył zawieszony PM10_diff_3h,0.00569673
+dwutlenek azotu,0.0056567597
+dwutlenek azotu_diff_1h,0.0047064642
