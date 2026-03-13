@@ -54,3 +54,8 @@ Dane historyczne obejmują lata 2020–2025 ze stacji pomiarowej we Wrocławiu
 - Rekomendacje aktywności fizycznej na zewnątrz
 - Wykresy historyczne z nałożonymi predykcjami
 - Automatyczna aktualizacja danych co godzinę
+
+## Screenshots
+
+![Dashboard](dashboard.png)
+![Dashboard 2](dashboard2.png)
